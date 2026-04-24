@@ -65,7 +65,7 @@
     "caniuse-lite": "1.0.30001778",
     "conventional-changelog": "6.0.0",
     "husky": "8.0.1",
-    "knip": "2.19.2",
+    "knip": "6.6.2",
     "lint-staged": "13.2.3",
     "only-allow": "1.2.1",
     "oxfmt": "0.42.0",
