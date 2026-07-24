@@ -61,7 +61,7 @@
     "@commitlint/cli": "17.7.1",
     "@commitlint/config-conventional": "19.2.2",
     "@monkeytype/release": "workspace:*",
-    "@vitest/coverage-v8": "4.0.15",
+    "@vitest/coverage-v8": "4.1.10",
     "caniuse-lite": "1.0.30001778",
     "conventional-changelog": "6.0.0",
     "husky": "8.0.1",
