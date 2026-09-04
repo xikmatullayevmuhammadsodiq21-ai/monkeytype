@@ -54,7 +54,7 @@
     "swagger-stats": "0.99.7",
     "ua-parser-js": "0.7.33",
     "uuid": "10.0.0",
-    "winston": "3.6.0",
+    "winston": "3.19.0",
     "zod": "3.23.8"
   },
   "devDependencies": {
